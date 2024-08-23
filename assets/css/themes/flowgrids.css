@@ -1,0 +1,26 @@
+/* Hugo Blox color theme: FLOWGRIDS */
+:root {
+    /* Primary Palette */
+    --color-primary-50:  237 243 255;
+    --color-primary-200: 196 214 255;
+    --color-primary-300: 160 185 255;
+    --color-primary-400: 122 146 255;
+    --color-primary-500: 90 109 250;
+    --color-primary-600: 49 56 238;
+    --color-primary-700: 47 50 211;
+    --color-primary-800: 41 45 170;
+    --color-primary-900: 41 47 134;
+    --color-primary-950: 24 26 78;
+    /* Secondary Palette */
+    --color-secondary-50: 254 252 232;
+    --color-secondary-100: 255 250 194;
+    --color-secondary-200: 255 245 153;
+    --color-secondary-300: 255 229 69;
+    --color-secondary-400: 252 210 19;
+    --color-secondary-500: 236 185 6;
+    --color-secondary-600: 204 144 2;
+    --color-secondary-700: 162 102 6;
+    --color-secondary-800: 134 80 13;
+    --color-secondary-900: 114 65 17;
+    --color-secondary-950: 67 33 5;
+}
