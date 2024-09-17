@@ -40,7 +40,7 @@ header:
     button:
       enable: true
       text: "Contact us"
-      url: "mailto:info@flowgrid.de"
+      url: "mailto:info@flowgrids.de"
     show_search: false
     show_theme_chooser: false
 
